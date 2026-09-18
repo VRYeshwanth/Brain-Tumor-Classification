@@ -2,3 +2,6 @@
 
 # Original Dataset Folder
 archive
+
+# Dataset with stratified split
+dataset
