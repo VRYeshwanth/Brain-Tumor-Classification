@@ -1,4 +1,5 @@
 .venv
+__pycache__
 
 # Original Dataset Folder
 archive
